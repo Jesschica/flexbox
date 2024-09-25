@@ -1,0 +1,17 @@
+div{
+    width: 150px;
+    height: 125px;
+    background-color: gray;
+    flex-basis: 30%;
+}
+
+section {
+    display: flex;
+    flex-wrap: wrap;
+    height: 500px;
+    border: 1px solid black;
+}
+
+#height {
+    height: 170px;
+}
